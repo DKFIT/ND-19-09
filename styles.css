@@ -1,0 +1,29 @@
+nav{
+    background-color: azure;
+    height: 20vh;
+    justify-content: space-evenly;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    bottom: 20%;
+    position: fixed;
+    top: 5%;
+    right: 40%;
+
+    
+    
+}
+
+
+a{
+background-color: blanchedalmond;
+border: solid 1px;
+padding: 5px;
+border-radius: 5px;
+margin: 3px;
+text-align:center ;
+font-size: 40px;
+}
